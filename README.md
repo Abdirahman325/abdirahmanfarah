@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Abdirahman Farah</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-h3 align="center">A little bit about me </h3>
+A little bit about me 
+
 <p>My name is Abdirahman Farah and welcome to my Github page. I have many projects on here that I used to help me learn a number of programming languages. The main project on here that I hope you get the chance to check out is my solo project. So far I have gotten the opportunity to work with HTML, CSS, Javascript, jQuery, SQL, React, Redux-Sagas, and most recently .NET and C#. My interests outside of tech include: Hiking, biking around the lake, longboarding, reading, and sports. I also love to go camping with friends occasionally. </p>
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/abdirahman-farah-a98842255/ & abdirahmanfarah122@gmail.com</h3>
