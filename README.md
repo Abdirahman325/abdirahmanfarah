@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdirahman Farah</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/abdirahman-farah-a98842255/ & abdirahmanfarah122@gmail.com</h3>
 <p align="left">
 </p>
 
